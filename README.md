@@ -21,4 +21,4 @@ Output
 - Weather prediction
 
 Note
-The model can also take custom user input for prediction.I leave it for the user's practice and understanding
+- The model can also take custom user input for prediction.I leave it for the user's practice and understanding
